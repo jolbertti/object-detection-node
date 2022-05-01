@@ -33,4 +33,6 @@ SCK    -----  pin19
 
 ![3001615286723_ pic_hd](https://user-images.githubusercontent.com/84034458/166166773-a717120d-cd26-414a-a979-4575ddb80c17.jpg)
 
+STLINK V2 PINOUT
+
 ![ARM_JTAG_SWD_Header](https://user-images.githubusercontent.com/84034458/166166742-a7f3f86a-922c-458e-ada1-14f9c5f1b489.png)
