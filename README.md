@@ -21,12 +21,12 @@ https://ashutosh952.medium.com/lora-e5-dev-board-example-code-in-stm32-cube-ide-
 
 E5 MINI DEBUGGING CONNECTIONS
 
-e5 pin -----  stlink pin
-5v     -----  pin1
-SDWIO  -----  pin7
-SWDLK  -----  pin9
-GND    -----  pin8
-SCK    -----  pin19
+e5 pin - stlink pin
+5v     -  pin1
+SDWIO  - pin7
+SWDLK  - pin9
+GND    -  pin8
+SCK    - pin19
 
 
 ![IMG_20220104_171939](https://user-images.githubusercontent.com/84034458/166166712-8ec16e81-aac2-4984-82ad-1755e1fc22df.jpg)
